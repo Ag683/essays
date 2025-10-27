@@ -3,8 +3,6 @@ button.png"></a>
 <param ve-config title="Title of article" author="Author name" layout="vtl" banner="Wikimedia
 Commons Image URL">
 <param ve-entity eid="Q1500299" aliases="Sheppey">
-#
-Paragraph 1 HERE
 The Anglo Dutch War was not the first time that Sheppey inhabitants suffered due to war, or the threat
 of war, since it was almost a hundred years earlier in 1588 that concerns about the [Spanish
 Armada](/16c/16c-spanish-armada), approaching London via the Kent coast, caused the Crown to
@@ -27,5 +25,4 @@ This article was published: 6 January 2022.
 _geograph.org.uk_-_389427.jpg" label="Sheppey Cliff top" attribution="Glyn Baker, CC BY-SA 2.0, via
 Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-map center="Q936183" zoom="10">
-### References
-[^ref1]: British Library, Lansdowne MS 42, xlii, f.10.
+British Library, Lansdowne MS 42, xlii, f.10.
